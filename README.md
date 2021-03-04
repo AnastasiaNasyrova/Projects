@@ -22,11 +22,11 @@
 ## <a href="https://github.com/AnastasiaNasyrova/Projects/tree/main/5%20Tariff%20recommendation">5. Рекомендации тарифов </a>
 **Цель проекта:** данный проект был предназначен для закрепления основ машинного обучения. Необходимо было построить разные модели классификации и довести целевую метрику до заданного порога.
 
-Ключевые понятия - pandas, sklearn, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, accuracy_score
+**Ключевые понятия** - pandas, sklearn, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, accuracy_score
 ## <a href="https://github.com/AnastasiaNasyrova/Projects/tree/main/6%20Customer%20Churn%20Prediction">6. Прогнозирование оттока клиентов </a>
 **Цель проекта:** данный проект был предназначен для закрепления основ машинного обучения. Необходимо было построить разные модели классификации, учитывая при этом дисбаланс классов (попробуем несколько способов борьбы с дисбалансом классов), выбрать наилучшую для предсказания оттока клиентов, чтобы вовремя принимать меры по удержанию клиента, так как привлечение нового обходится дороже
 
-Ключевые понятия - pandas, sklearn, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, f1_score, roc_auc_score, roc_curve, class_weight, upsampling, downsampling
+**Ключевые понятия** - pandas, sklearn, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, f1_score, roc_auc_score, roc_curve, class_weight, upsampling, downsampling
 ## <a href="https://github.com/AnastasiaNasyrova/Projects/tree/main/7%20Choosing%20a%20location%20for%20an%20oil%20well">7. Выбор локации для скважины </a>
 **Цель проекта:** На основании имеющихся характеристик скважин из разных регионов, необходимо предсказать объемы добычи (задача регрессии), рассчитать прибыль и риски убытков и дать рекомендации, какой регион принесет максимальную прибыль, не превышая при этом приемлемый для бизнеса уровень риска убытков.
 
@@ -40,7 +40,7 @@
 
 **Ключевые понятия** - pandas, numpy, sklearn, seaborn, matplotlib, GridsearchCV, LGBMRegressor, mean_squared_error
 ## <a href="https://github.com/AnastasiaNasyrova/Projects/tree/main/10%20Predicting%20taxi%20orders%20for%20the%20next%20hour">10. Прогнозирование количества заказов такси на следующий час </a>
-**Цель проекта:** решить задачу прогнозивроания временного ряда и построить модель регрессии для определения стоимости автомобиля на основании технических характеристик, комплектации, модели автомобиля
+**Цель проекта:** решить задачу прогнозирования временного ряда и построить модель регрессии для определения стоимости автомобиля на основании технических характеристик, комплектации, модели автомобиля
 
 **Ключевые понятия** - pandas, sklearn, matplotlib, GridsearchCV, тренды, сезонность, ресемплирование, создание календарных признаков
 ## <a href="https://github.com/AnastasiaNasyrova/Projects/tree/main/11%20%D0%A1lassification%20of%20text%20comments%20into%20positive%20and%20negative">11. Классификация комментариев на позитивные и негативные </a>
